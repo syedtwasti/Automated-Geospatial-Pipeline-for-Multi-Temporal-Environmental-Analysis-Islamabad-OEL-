@@ -1,0 +1,2 @@
+# Automated-Geospatial-Pipeline-for-Multi-Temporal-Environmental-Analysis-Islamabad-OEL-
+A fully automated Python-based geospatial processing pipeline for multi-temporal environmental monitoring of Islamabad using satellite-derived indices. The project computes zonal statistics for administrative boundaries and performs temporal change detection for vegetation and water stress using open-source GIS libraries in Google Colab.
